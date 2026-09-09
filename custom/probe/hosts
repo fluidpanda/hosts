@@ -1,6 +1,7 @@
 0.0.0.0 adstat.yandex.ru
 0.0.0.0 api-gost.oneme.ru
 0.0.0.0 api.oneme.ru
+0.0.0.0 api.rustore.ru
 0.0.0.0 api.telega.info
 0.0.0.0 api2.oneme.ru
 0.0.0.0 calls.okcdn.ru
@@ -21,6 +22,8 @@
 0.0.0.0 pushtrs.push.hicloud.com
 0.0.0.0 pushtrs1.push.hicloud.com
 0.0.0.0 sdk-api-rf.apptracer.ru
+0.0.0.0 reef.vk-cdn.net
+0.0.0.0 rustore.ru
 0.0.0.0 sdk-api.apptracer.ru
 0.0.0.0 st.max.ru
 0.0.0.0 telega.me
